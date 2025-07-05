@@ -1,4 +1,4 @@
-[![Animated Banner](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)](https://your-portfolio-link.com)
+![Banner](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 
 <h1 align="center">Hi 👋, I'm Arti</h1>
 <h3 align="center">A passionate Software developer from India</h3>
@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **AR.js**
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👯 I’m looking to collaborate on **MERN Projects, Hackathons, DSA Prep Tools**
 
