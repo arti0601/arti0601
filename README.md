@@ -1,4 +1,5 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+![MasterHead](https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif)
+
 
 <h1 align="center">Hi 👋, I'm Arti</h1>
 <h3 align="center">A passionate Software developer from India</h3>
