@@ -1,14 +1,11 @@
-![MasterHead](https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif)
+[![Animated Banner](https://camo.githubusercontent.com/b0a4d30f8d5be5c42d7bc2c6a3bad82dc5ad1a537ab60d7463d3b9e05541d986/68747470733a2f2f7777772e7072616d756b686469676974616c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30372f4e65772d504e432d416e696d617465642d42616e6e6572732e676966)](https://your-portfolio-link.com)
 
 
 <h1 align="center">Hi 👋, I'm Arti</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arti0601&label=Profile%20views&color=0e75b6&style=flat" alt="arti0601" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arti0601" alt="arti0601" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/arti_iiii" target="blank"><img src="https://img.shields.io/twitter/follow/arti_iiii?logo=twitter&style=for-the-badge" alt="arti_iiii" /></a> </p>
 
@@ -40,4 +37,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arti0601&show_icons=true&locale=en" alt="arti0601" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arti0601&" alt="arti0601" /></p>
-
